@@ -20,20 +20,3 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
-<h3 align="left">🗄️ Databases:</h3>
-<div align="left">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
-
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ahgaming03&show_icons=true&theme=dark&locale=en" alt="ahgaming03" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahgaming03&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahgaming03" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahgaming03&theme=dark" alt="ahgaming03" /></p>
-  </div>
